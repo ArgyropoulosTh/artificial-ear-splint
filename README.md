@@ -36,7 +36,7 @@ Non-surgical correction methods often require:
 
 ---
 
-## 🛠 Design & Development
+##  Design & Development
 
 ### 1) Personalization Workflow
 
