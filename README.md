@@ -12,8 +12,7 @@ Patient-specific ear splint designed for non-surgical correction of ear deformit
 ## 📌 Overview
 
 This project focuses on the design and prototyping of a personalized ear splint manufactured via 3D printing to enable non-surgical correction of ear deformities. The solution emphasizes patient comfort, anatomical fit, and rapid customization.
- 
-![Ear splint_prototype](assets/images/case_z-flex.jpg)
+
 
 ---
 
@@ -74,22 +73,16 @@ Key design features (examples — keep what’s true):
 - durability during wear
 - print orientation and support strategy
 
-🖼 *Add: print setup / printed part photos*  
-![3D printed part](assets/images/ear-splint-printed.jpg)
+
+![3D printed part](assets/images/3D Printed Ear.jpg).
+![3D printed part](assets/images/3D Printed ear case.jpg).
+
 
 ---
 
 ### 4) Prototyping & Iteration
 
-Summarize your iteration steps:
-- Prototype v1 → fit feedback → design change
-- Prototype v2 → improved comfort/retention
-- Final prototype
-
-🖼 *Add: version timeline or side-by-side prototypes*  
-![Prototype iterations](assets/images/ear-splint-iterations.jpg)
-
----
+![3D printed part](assets/images/3D Printed ear case.jpg).
 
 ## 📊 Results
 
@@ -99,20 +92,9 @@ Include the strongest “proof” you can share publicly:
 - successful prototyping and manufacturability
 - readiness for dissemination (patent/publication)
 
-🖼 *Add: final prototype on subject / final fit photo (if allowed)*  
-![Final prototype](assets/images/ear-splint-final.jpg)
 
 ---
 
-## 🎥 Media
-
-### Quick Preview
-![Demo](assets/gifs/ear-splint-demo.gif)
-
-### Full Video
-[▶️ Watch full video](assets/videos/ear-splint-demo.mp4)
-
----
 
 ## 📄 Publications / Dissemination
 
