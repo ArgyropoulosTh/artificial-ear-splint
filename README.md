@@ -13,7 +13,7 @@ Patient-specific ear splint designed for non-surgical correction of ear deformit
 
 This project focuses on the design and prototyping of a personalized ear splint manufactured via 3D printing to enable non-surgical correction of ear deformities. The solution emphasizes patient comfort, anatomical fit, and rapid customization.
  
-![Ear splint hero](assets/images/case-z-flex.jpg)
+![Ear splint_prototype](assets/images/case_z-flex.jpg)
 
 ---
 
