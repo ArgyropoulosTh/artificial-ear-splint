@@ -46,6 +46,7 @@ Describe how the geometry was personalized (choose what applies):
 - CAD modeling workflow
 - iteration cycle (fit → adjust → print)
 
+![Personalization workflow](assets/images/meshlab_photo_ear.png)
 ![Personalization workflow](assets/images/case.png)
 
 ---
