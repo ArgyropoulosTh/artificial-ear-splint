@@ -40,7 +40,6 @@ Non-surgical correction methods often require:
 
 ### 1) Personalization Workflow
 
-Describe how the geometry was personalized (choose what applies):
 - measurements / photos / scan-derived model
 - CAD modeling workflow
 - iteration cycle (fit → adjust → print)
@@ -51,9 +50,8 @@ Describe how the geometry was personalized (choose what applies):
 
 ### 2) CAD Design
 
-Key design features (examples — keep what’s true):
 - anatomical contouring
-- fixation strategy (clip/strap/contact surfaces)
+- fixation strategy (contact surfaces)
 - comfort features (rounded edges, surface finish areas)
 - ventilation / weight reduction patterns
 
@@ -65,8 +63,8 @@ Key design features (examples — keep what’s true):
 ### 3) Manufacturing (3D Printing)
 
 **Manufacturing method:** 3D Printing  
-**Process used:** (FDM/SLA/SLS)  
-**Material:** (insert)  
+**Process used:** (FDM)
+**Material:** (TPU)  
 **Key considerations:**
 - dimensional accuracy and repeatability
 - skin-contact comfort (surface finish, edges)
@@ -84,9 +82,8 @@ Key design features (examples — keep what’s true):
 
 ## 📊 Results
 
-Include the strongest “proof” you can share publicly:
-- achieved patient-specific fit (qualitative)
-- improved comfort/retention vs baseline approach (qualitative)
+- achieved patient-specific fit 
+- improved comfort/retention vs baseline approach 
 - successful prototyping and manufacturability
 - readiness for dissemination (patent/publication)
 
