@@ -74,15 +74,13 @@ Key design features (examples — keep what’s true):
 - print orientation and support strategy
 
 
-![3D printed part](assets/images/3D Printed Ear.jpg).
-![3D printed part](assets/images/3D Printed ear case.jpg).
-
+![3D printed part](assets/images/3D Printed Ear.JPG).
 
 ---
 
 ### 4) Prototyping & Iteration
 
-![3D printed part](assets/images/3D Printed ear case.jpg).
+![Prototypet](assets/images/3D Printed ear case.JPG).
 
 ## 📊 Results
 
