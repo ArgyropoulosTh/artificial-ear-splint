@@ -1,4 +1,4 @@
-# Artificial Ear Splint (Patient-Specific, 3D Printed)
+# Artificial Ear Splint 
 
 Patient-specific ear splint designed for non-surgical correction of ear deformities using additive manufacturing.
 
