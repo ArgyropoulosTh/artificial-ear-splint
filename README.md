@@ -47,7 +47,6 @@ Describe how the geometry was personalized (choose what applies):
 - iteration cycle (fit → adjust → print)
 
 ![Personalization workflow](assets/images/meshlab_photo_ear.png)
-![Personalization workflow](assets/images/case.png)
 
 ---
 
@@ -59,11 +58,8 @@ Key design features (examples — keep what’s true):
 - comfort features (rounded edges, surface finish areas)
 - ventilation / weight reduction patterns
 
-🖼 *Add: CAD renders (front/side), optionally exploded view*  
-<p>
-  <img src="assets/images/ear-splint-cad-1.png" width="49%"/>
-  <img src="assets/images/ear-splint-cad-2.png" width="49%"/>
-</p>
+![CAD](assets/images/case.png)
+
 
 ---
 
