@@ -95,7 +95,7 @@ Non-surgical correction methods often require:
 
 - Journal article(s): *(https://www.mdpi.com/2409-9279/4/3/54)*
 - Conference presentations: *(https://www.researchgate.net/publication/343667495_Research_study_design_and_development_of_an_artificial_ear_splint_model_by_using_a_3D_printer)*
-- Patent: **1009882**
+- Patent: [**1009882**](https://patents.google.com/patent/GR1009882B/en?q=(argyropoulos+athanasios+ear+splint)&oq=argyropoulos+athanasios+ear+splint)
 
 
 ---
