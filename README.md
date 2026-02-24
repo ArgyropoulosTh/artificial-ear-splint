@@ -80,7 +80,7 @@ Non-surgical correction methods often require:
 
 ![Prototypet](assets/images/3D_Printed_ear_case.JPG).
 
-## 📊 Results
+##  Results
 
 - achieved patient-specific fit 
 - improved comfort/retention vs baseline approach 
